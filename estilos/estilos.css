@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/*Aquí empiezan los estilos de la portada*/
+.portada {
+  background-color: navy;
+  color: white;
+  text-align: center;
+}
+
+.imagencirculo {
+  border-radius: 50%;
+  background-image: url("../img/yo.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+}
+
+.fondoimagen {
+  background-color: white;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.foto {
+  display: flex;
+  justify-content: center;
+}
