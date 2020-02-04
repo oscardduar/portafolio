@@ -27,3 +27,32 @@
   display: flex;
   justify-content: center;
 }
+
+/*Aquí empieza la sección de estudios*/
+.estudios {
+  text-align: center;
+}
+
+.estudios .universidad img {
+  width: 70%;
+  height: 135px;
+}
+
+.estudios .carrera img {
+  width: 60%;
+  height: 135px;
+}
+
+.estudios .universidad {
+  background-color: #243f1a;
+  color: white;
+}
+
+.estudios .carrera {
+  background-color: white;
+  color: black;
+}
+
+.proyectos {
+  text-align: center;
+}
