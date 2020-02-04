@@ -40,7 +40,7 @@
 
 .estudios .carrera img {
   width: 60%;
-  height: 135px;
+  height: 175px;
 }
 
 .estudios .universidad {
@@ -53,6 +53,35 @@
   color: black;
 }
 
+/*--Aquí inicia la sección de proyectos*/
 .proyectos {
+  padding-top: 25px;
   text-align: center;
+  background-color: #542b2b;
+  color: white;
+}
+.proyectos img {
+  width: 60%;
+  height: 135px;
+}
+
+/******************Aquí inicia la sección de formulario******************/
+.formulario {
+  background-color: #6b441f;
+  padding: 15px;
+  padding-left: 80px;
+  padding-right: 80px;
+  text-align: center;
+  color: white;
+}
+
+/*Aquí inicia la sección de video*/
+.video {
+  text-align: center;
+  padding: 15px;
+}
+.video iframe {
+  width: 55%;
+  height: 50vh;
+  border-radius: 7.5%;
 }
