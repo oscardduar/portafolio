@@ -28,6 +28,10 @@
   justify-content: center;
 }
 
+header {
+  background-color: black;
+}
+
 /*Aquí empieza la sección de estudios*/
 .estudios {
   text-align: center;
@@ -84,4 +88,11 @@
   width: 55%;
   height: 50vh;
   border-radius: 7.5%;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 35px;
 }
